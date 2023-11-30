@@ -1,0 +1,15 @@
+        
+           // .first(where: { $0 > 5 })
+//            .tryFirst(where: { value in
+//                if value == 2 {
+//                    throw URLError(.badServerResponse)
+//                }
+//                return value > 3
+//            })
+        
+           // .last(where: { $0 == 4 })
+           // .drop(while: { $0 < 5 })
+           // .prefix(5)
+           // .prefix(while: { $0 < 5 })
+//            .output(at: 5)
+//            .output(in: 3...6)
